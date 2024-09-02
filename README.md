@@ -40,3 +40,6 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+---
+# Link do Deploy:
+https://sdw-2023-api-prd-luis.up.railway.app/swagger-ui/index.html
